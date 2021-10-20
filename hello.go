@@ -7,5 +7,5 @@ func Hello() string {
 }
 
 func main() {
-	fmt.Println(Hello())
+	fmt.Println(Hello()) //This calls on the Hello Function.
 }
